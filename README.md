@@ -12,3 +12,6 @@ Built with:
 - Streamlit
 - Scikit-Learn
 - XGBoost
+
+Hosted on Streamlit community:
+- https://flight-delay-prediction-anwesha.streamlit.app/
