@@ -11,7 +11,4 @@ Built with:
 - Streamlit
 - Scikit-Learn
 - XGBoost
-# flight-delay-prediction-initial
-# flight-delay-prediction
-# flight-delay-prediction
-# flight-delay-prediction
+
